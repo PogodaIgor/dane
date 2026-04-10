@@ -1,0 +1,6 @@
+.flag{
+    display: flex;
+    width: 300px;
+    height: 30vh;
+    border: 1px solid black;
+}
